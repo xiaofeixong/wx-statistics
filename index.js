@@ -4,7 +4,7 @@ var queryString = require('./query-string.js')
 var getUrlByCode = function (code) {
   var bussinessHash = [{ // 全网统计（登录注册）
     url: 'https://gw.fdc.com.cn/site_data.js',
-    codes: ['a0001', 'a0002', 'a0012']
+    codes: ['a0001', 'a0002', 'a0012','a0017']
   },
   { // 报名
     url: 'https://gw.fdc.com.cn/sign_up_data.js',

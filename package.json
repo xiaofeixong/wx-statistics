@@ -1,6 +1,6 @@
 {
   "name": "wx-statistics",
-  "version": "1.0.27",
+  "version": "1.0.30",
   "description": "统计",
   "main": "index.js",
   "scripts": {
